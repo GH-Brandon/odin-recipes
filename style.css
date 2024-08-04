@@ -1,0 +1,15 @@
+#main {
+  text-align: center;
+  text-decoration: underline;
+  font-size: 72px;
+}
+
+.recipeList {
+  font-size: 50px;
+}
+
+.box {
+  width: 700px;
+  height: auto;
+  border: solid black 2px;
+}
