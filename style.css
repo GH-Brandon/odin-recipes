@@ -5,6 +5,7 @@
 }
 
 h2 {
+  font-family: Georgia, "Times New Roman", Times, serif;
   text-decoration: underline;
 }
 
@@ -28,4 +29,8 @@ h2 {
 ol,
 ul {
   text-align: left;
+}
+
+.styledText {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
